@@ -1,0 +1,43 @@
+.user-profile{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: rgb(37, 63, 117);
+    color: white;
+    margin-left: 250px;
+    width: 40%;
+    margin-top: 40px;
+}
+
+input{
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 20px; 
+}
+
+button{
+    margin-top: 40px;
+    width: 170px;
+    height: 50px;
+    margin-left: 250px;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+label{
+    font-size: 25px;
+}
+
+h1{
+    font-weight: bolder;
+    margin-left: 160px;
+    font-size: 40px;
+}
